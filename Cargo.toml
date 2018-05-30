@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["zhaoyenb <116682877@qq.com>"]
 description = "convert CRLF LF CR between each other"
 license  = "MIT"
-license -file = "LICENSE.md"
+license-file = "LICENSE.md"
 repository = "https://github.com/JALBAA/rust-eol-convert"
 [dependencies]
 clap = "2.31.2"
