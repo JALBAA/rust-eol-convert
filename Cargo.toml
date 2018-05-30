@@ -1,6 +1,6 @@
 [package]
 name = "eol"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["zhaoyenb <116682877@qq.com>"]
 description = "convert CRLF LF CR between each other"
 license  = "MIT"
