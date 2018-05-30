@@ -6,5 +6,9 @@ description = "convert CRLF LF CR between each other"
 license  = "MIT"
 license-file = "LICENSE.md"
 repository = "https://github.com/JALBAA/rust-eol-convert"
+exclude = [
+    "test3.js",
+]
 [dependencies]
 clap = "2.31.2"
+
