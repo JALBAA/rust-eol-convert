@@ -2,4 +2,4 @@
 ```shell
 eol --file <filename> --from <type> --to <type>
 ```
-<type> can be `crlf` `cr` `lf`
+`<type>` can be `crlf` `cr` `lf`
